@@ -3,4 +3,4 @@
 This is my first Hello World test!
 
 -Jon
-JPL, master coder
+JPL, master coder and code master
