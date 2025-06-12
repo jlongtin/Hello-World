@@ -10,5 +10,7 @@ Another add to feature test.
 Here's another addition to the branch after a merge.
 
 -Jon
+----------------------------------
 JPL, master coder and code master
 SuperProto Designs, Inc.
+----------------------------------
